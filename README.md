@@ -1,1 +1,1 @@
-First project using git. A recipe catalog website written in basic HTML and CSS. 
+First project using git. A recipe catalog website written in basic HTML and CSS. Reference: https://www.theodinproject.com/lessons/foundations-recipes
